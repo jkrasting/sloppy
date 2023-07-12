@@ -20,6 +20,7 @@ requirements:
     - dask
     - netCDF4
     - numba
+    - tqdm
 
 about:
   home: http://github.com/raphaeldussin/sloppy
